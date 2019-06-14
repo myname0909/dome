@@ -1,0 +1,52 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1560476864928" stop="1560476864978">
+  <name>demo1.scripts.test_jenkins</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1560476864928" status="failed" stop="1560476864968">
+      <name>Test_Jenkins.test_login1</name>
+      <failure>
+        <message>AssertionError: assert 0</message>
+        <stack-trace>self = &lt;demo1.scripts.test_jenkins.Test_Jenkins object at 0x000000000353D860&gt;
+
+    def test_login1(self):
+&gt;       assert 0
+E       assert 0
+
+scripts\test_jenkins.py:3: AssertionError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7704-MainThread"/>
+        <label name="host" value="WS1"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1560476864968" status="passed" stop="1560476864978">
+      <name>Test_Jenkins.test_login2</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7704-MainThread"/>
+        <label name="host" value="WS1"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1560476864978" status="passed" stop="1560476864978">
+      <name>Test_Jenkins.test_login3</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7704-MainThread"/>
+        <label name="host" value="WS1"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

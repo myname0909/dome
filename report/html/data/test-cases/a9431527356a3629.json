@@ -1,0 +1,60 @@
+{
+  "uid" : "a9431527356a3629",
+  "name" : "Test_Jenkins.test_login2",
+  "fullName" : "demo1.scripts.test_jenkins.Test_Jenkins.test_login2",
+  "historyId" : "86e20aae01d7ae5323b142cf014ce1a4",
+  "time" : {
+    "start" : 1560476864968,
+    "stop" : 1560476864978,
+    "duration" : 10
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WS1"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "7704-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "demo1.scripts.test_jenkins"
+  }, {
+    "name" : "testClass",
+    "value" : "demo1.scripts.test_jenkins"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_Jenkins.test_login2"
+  }, {
+    "name" : "package",
+    "value" : "demo1.scripts.test_jenkins"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a9431527356a3629.json",
+  "parameterValues" : [ ]
+}

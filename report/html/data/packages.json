@@ -1,0 +1,45 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "demo1.scripts.test_jenkins",
+    "children" : [ {
+      "name" : "Test_Jenkins.test_login1",
+      "uid" : "aa14f646f3f6af7d",
+      "parentUid" : "7d3ebc0540370e3f13cb8b5546250542",
+      "status" : "failed",
+      "time" : {
+        "start" : 1560476864928,
+        "stop" : 1560476864968,
+        "duration" : 40
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Test_Jenkins.test_login2",
+      "uid" : "a9431527356a3629",
+      "parentUid" : "7d3ebc0540370e3f13cb8b5546250542",
+      "status" : "passed",
+      "time" : {
+        "start" : 1560476864968,
+        "stop" : 1560476864978,
+        "duration" : 10
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Test_Jenkins.test_login3",
+      "uid" : "a96c983ce8c25a6b",
+      "parentUid" : "7d3ebc0540370e3f13cb8b5546250542",
+      "status" : "passed",
+      "time" : {
+        "start" : 1560476864978,
+        "stop" : 1560476864978,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "demo1.scripts.test_jenkins"
+  } ]
+}
